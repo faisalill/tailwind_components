@@ -4,8 +4,6 @@
 
 @layer components {
     .sidebar-icon {
-        @apply bg-black text-white p-[8px] hover:bg-white hover:text-black
-        
-     
+        @apply bg-black text-white p-[8px] hover:bg-white 
     }
 }
