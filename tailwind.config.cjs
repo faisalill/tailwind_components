@@ -10,6 +10,7 @@ module.exports = {
         'lblue': '#99ccff',
         'svelte-orange': '#FF3E00',
         'js-yellow': '#FCDC00',
+        'overlay-bg': 'rgba(0, 0, 0, 0.8)',
       }
     },
   },
